@@ -14,6 +14,7 @@
 		3FACB65E2928014F00228803 /* New_Wave_StoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACB65D2928014F00228803 /* New_Wave_StoreTests.swift */; };
 		3FACB6682928014F00228803 /* New_Wave_StoreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACB6672928014F00228803 /* New_Wave_StoreUITests.swift */; };
 		3FACB66A2928014F00228803 /* New_Wave_StoreUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACB6692928014F00228803 /* New_Wave_StoreUITestsLaunchTests.swift */; };
+		3FACB677292803D700228803 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACB676292803D700228803 /* Product.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3FACB6632928014F00228803 /* New Wave StoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "New Wave StoreUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FACB6672928014F00228803 /* New_Wave_StoreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_Wave_StoreUITests.swift; sourceTree = "<group>"; };
 		3FACB6692928014F00228803 /* New_Wave_StoreUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New_Wave_StoreUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FACB676292803D700228803 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3FACB64C2928014E00228803 /* New_Wave_StoreApp.swift */,
 				3FACB64E2928014E00228803 /* ContentView.swift */,
+				3FACB676292803D700228803 /* Product.swift */,
 				3FACB6502928014F00228803 /* Assets.xcassets */,
 				3FACB6522928014F00228803 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FACB677292803D700228803 /* Product.swift in Sources */,
 				3FACB64F2928014E00228803 /* ContentView.swift in Sources */,
 				3FACB64D2928014E00228803 /* New_Wave_StoreApp.swift in Sources */,
 			);
